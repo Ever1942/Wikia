@@ -1,0 +1,22 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+  </component>
+</application>

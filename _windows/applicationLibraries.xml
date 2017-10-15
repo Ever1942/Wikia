@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="jxl">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/IdeaProjects/Kalkulator Prowizji 2.0/src/sample/lib/jexcelapi/jxl.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
