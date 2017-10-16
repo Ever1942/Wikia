@@ -8,8 +8,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1508100811511">
-        <mark key="[" line="6" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1508184530922">
+        <mark key="[" line="6" column="132" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
       </file>
@@ -125,10 +125,11 @@
       <file name="$USER_HOME$/IdeaProjects/Kalkulator Prowizji 2.0/Kalkulator Prowizji 2.0.iml" timestamp="1501421721138">
         <mark key="[" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" timestamp="1508182445297">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" timestamp="1508183864306">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Batman.java" timestamp="1499010387730">
         <mark key="'" line="14" column="0" />
@@ -151,11 +152,11 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1508182343846">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1508184395682">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="8" />
+        <mark key="." line="60" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
@@ -250,6 +251,7 @@
       <jump line="182" column="40" filename="$USER_HOME$/IdeaProjects/Kalkulator Prowizji 2.0/src/sample/Controller.java" />
       <jump line="18" column="8" filename="$USER_HOME$/IdeaProjects/Kalkulator Prowizji 2.0/src/sample/Main.java" />
       <jump line="19" column="4" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" />
+      <jump line="21" column="11" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -259,7 +261,7 @@
         <text encoding="base64">CgogICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>File</text>
+        <text>System.out.println(list);</text>
       </register>
       <register name="2" type="4">
         <text>}
@@ -301,7 +303,7 @@ public class Controller {
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRvdGFsd3luaWsgPSAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>System.out.println(list);</text>
       </register>
     </registers>
     <search>
