@@ -8,10 +8,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1508184530922">
-        <mark key="[" line="6" column="132" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1508185679004">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -261,7 +261,7 @@
         <text encoding="base64">CgogICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>System.out.println(list);</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text>}
@@ -303,7 +303,7 @@ public class Controller {
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRvdGFsd3luaWsgPSAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(list);</text>
+        <text />
       </register>
     </registers>
     <search>
