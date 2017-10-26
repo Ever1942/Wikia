@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509051706023">
-        <mark key="[" line="72" column="99" />
-        <mark key="]" line="72" column="99" />
-        <mark key="^" line="54" column="74" />
-        <mark key="." line="72" column="99" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509053388261">
+        <mark key="[" line="108" column="12" />
+        <mark key="]" line="108" column="12" />
+        <mark key="^" line="56" column="74" />
+        <mark key="." line="108" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -126,9 +126,9 @@
       <file name="$USER_HOME$/IdeaProjects/Kalkulator Prowizji 2.0/Kalkulator Prowizji 2.0.iml" timestamp="1501421721138">
         <mark key="[" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" timestamp="1508790918451">
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" timestamp="1509053404091">
         <mark key="'" line="28" column="11" />
-        <mark key="[" line="21" column="25" />
+        <mark key="[" line="22" column="9" />
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
@@ -153,11 +153,11 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509048605727">
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509052529180">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="76" column="41" />
+        <mark key="." line="76" column="41" />
         <mark key="^" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
@@ -263,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>thirdDiscountDiscount</text>
+        <text>halfGenerator</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
@@ -299,7 +299,7 @@
         <text encoding="base64">TGFiZWwgbGFiZWw7CiAgICB7CiAgICAgICAgbGFiZWwgPSBuZXcgTGFiZWwoKTsKICAgICAgICBsYWJlbC5zZXRUZXh0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>thirdDiscountDiscount</text>
+        <text>halfGenerator</text>
       </register>
     </registers>
     <search>
