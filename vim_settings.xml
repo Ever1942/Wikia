@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509047403900">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="26" />
-        <mark key="^" line="56" column="74" />
-        <mark key="." line="48" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509049662000">
+        <mark key="[" line="73" column="99" />
+        <mark key="]" line="73" column="99" />
+        <mark key="^" line="55" column="74" />
+        <mark key="." line="73" column="99" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -153,9 +153,9 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1508792005124">
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509048605727">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="62" column="20" />
+        <mark key="[" line="77" column="4" />
         <mark key="]" line="62" column="20" />
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
@@ -263,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>thirdDiscountDiscount</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
@@ -299,7 +299,7 @@
         <text encoding="base64">TGFiZWwgbGFiZWw7CiAgICB7CiAgICAgICAgbGFiZWwgPSBuZXcgTGFiZWwoKTsKICAgICAgICBsYWJlbC5zZXRUZXh0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>thirdDiscountDiscount</text>
       </register>
     </registers>
     <search>
