@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509137053867">
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="108" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509224422966">
+        <mark key="[" line="124" column="65" />
+        <mark key="]" line="124" column="65" />
         <mark key="^" line="56" column="74" />
-        <mark key="." line="108" column="12" />
+        <mark key="." line="124" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -153,9 +153,9 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509213773740">
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509224293478">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="82" column="5" />
+        <mark key="[" line="85" column="5" />
         <mark key="]" line="76" column="41" />
         <mark key="." line="76" column="41" />
         <mark key="^" line="62" column="20" />
@@ -263,7 +263,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>halfGenerator</text>
+        <text>Integer.parseInt</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
@@ -299,7 +299,7 @@
         <text encoding="base64">TGFiZWwgbGFiZWw7CiAgICB7CiAgICAgICAgbGFiZWwgPSBuZXcgTGFiZWwoKTsKICAgICAgICBsYWJlbC5zZXRUZXh0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>halfGenerator</text>
+        <text>Integer.parseInt</text>
       </register>
     </registers>
     <search>
