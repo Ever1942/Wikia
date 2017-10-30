@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509396084773">
-        <mark key="[" line="148" column="12" />
-        <mark key="]" line="148" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1509398634394">
+        <mark key="[" line="155" column="15" />
+        <mark key="]" line="155" column="15" />
         <mark key="^" line="61" column="74" />
-        <mark key="." line="148" column="12" />
+        <mark key="." line="155" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -264,7 +264,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>generatedFinalPack</text>
+        <text>tutaj dopisac żeby po dodatniu listy i temów i po wyborze taryfy w choice boxie podstawiało pod slidera i reszte rabaty i kwoty</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
@@ -300,7 +300,7 @@
         <text encoding="base64">TGFiZWwgbGFiZWw7CiAgICB7CiAgICAgICAgbGFiZWwgPSBuZXcgTGFiZWwoKTsKICAgICAgICBsYWJlbC5zZXRUZXh0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>generatedFinalPack</text>
+        <text>tutaj dopisac żeby po dodatniu listy i temów i po wyborze taryfy w choice boxie podstawiało pod slidera i reszte rabaty i kwoty</text>
       </register>
     </registers>
     <search>
