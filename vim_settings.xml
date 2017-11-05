@@ -152,13 +152,14 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509880198222">
-        <mark key="'" line="95" column="64" />
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="97" column="42" />
-        <mark key="." line="97" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1509907440776">
+        <mark key="'" line="89" column="64" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="61" column="4" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/scene/control/ChoiceBox.java" timestamp="1509907151292" />
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="16" />
@@ -259,32 +260,35 @@
       <register name="0" type="4">
         <text>.valueOf(wstępnie);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Double.parseDouble(textMin)</text>
+        <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Zm9yIChGaWxlIGZpbGUgOiBsb2FkZWRMaXN0KSB7CiAgICAgICAgICAgIAogICAgICAgICAgICBJbnRlZ2VyIGkgPSAwOwogICAgICAgICAgICAKICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gICA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgICAgICBnZW5lcmF0ZWREaXNjb3VudFBhY2suYWRkKCk7CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEFycmF5TGlzdCA8QXJyYXlMaXN0IDxTdHJpbmc+PiBnZW5lcmF0ZWREaXNjb3VudFBhY2sgPSBuZXcgQXJyYXlMaXN0PEZpbGU+KCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZURhdGEoQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QsQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QgKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgogICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoKTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>}
         fileChooser.showOpenDialog(null);</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/*public void zmianaNapisu(){
         loadedDiscountL.setText(&quot;Dupa&quot;);
         slider.setMin(0.0);
@@ -294,9 +298,6 @@
         slider.setMajorTickUnit(0.25f);
         slider.setBlockIncrement(0.1f);
     };*/</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">TGFiZWwgbGFiZWw7CiAgICB7CiAgICAgICAgbGFiZWwgPSBuZXcgTGFiZWwoKTsKICAgICAgICBsYWJlbC5zZXRUZXh0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Double.parseDouble(textMin)</text>
@@ -337,6 +338,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
