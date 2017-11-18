@@ -8,10 +8,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1511025851462">
-        <mark key="[" line="169" column="27" />
-        <mark key="]" line="177" column="8" />
-        <mark key="." line="177" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/GenerateData.java" timestamp="1511026838578">
+        <mark key="[" line="179" column="12" />
+        <mark key="]" line="179" column="12" />
+        <mark key="." line="179" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Start.java" timestamp="1498152459512">
         <mark key="[" line="7" column="42" />
@@ -263,7 +263,7 @@
         <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>slider.setValue(25);</text>
+        <text>System.out.println(&quot;Przy przeładowaniu pplików wystąpił błąd&quot;);</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
@@ -299,7 +299,7 @@
     };*/</text>
       </register>
       <register name="-" type="4">
-        <text>slider.setValue(25);</text>
+        <text>System.out.println(&quot;Przy przeładowaniu pplików wystąpił błąd&quot;);</text>
       </register>
     </registers>
     <search>
