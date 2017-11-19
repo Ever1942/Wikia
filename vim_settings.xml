@@ -155,7 +155,12 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511106801604" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511111107046">
+        <mark key="[" line="131" column="9" />
+        <mark key="]" line="131" column="9" />
+        <mark key="." line="131" column="9" />
+        <mark key="^" line="133" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="16" />
@@ -262,7 +267,7 @@
                                     .get(GenerateData.generatedFinalPack.get(GenerateData.choicePosition(choiceTariff.getValue())).size()-1).get(0))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Max</text>
+        <text>getSliderValue</text>
       </register>
       <register name="2" type="4">
         <text>slider.setMin(Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(GenerateData.arraySize(choiceTariff.getValue()) - 1)));
@@ -292,7 +297,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZURhdGEoQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QsQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QgKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
       <register name="-" type="4">
-        <text>Max</text>
+        <text>getSliderValue</text>
       </register>
     </registers>
     <search>
