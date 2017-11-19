@@ -155,12 +155,12 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511098519599">
-        <mark key="'" line="84" column="64" />
-        <mark key="[" line="80" column="7" />
-        <mark key="]" line="80" column="7" />
-        <mark key="." line="80" column="7" />
-        <mark key="^" line="61" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511102691190">
+        <mark key="'" line="106" column="64" />
+        <mark key="[" line="147" column="37" />
+        <mark key="]" line="147" column="37" />
+        <mark key="." line="147" column="37" />
+        <mark key="^" line="127" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
@@ -263,46 +263,40 @@
         <text>.valueOf(wstępnie);</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKCgoKCg==</text>
+        <text>slider.setMin(Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(GenerateData.arraySize(choiceTariff.getValue()) - 1)));
+            slider.setMax(Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(2)));
+            slider.setValue(((Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(2))) + (Double.parseDouble(GenerateData
+                    .generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(GenerateData.arraySize(choiceTariff.getValue()) - 1)))) / 2);</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRyeSB7</text>
+        <text>parseDouble</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsaWRlci5zZXRNaW4oRG91YmxlLnBhcnNlRG91YmxlKEdlbmVyYXRlRGF0YS5nZW5lcmF0ZWREaXNjb3VudFBhY2suZ2V0KEdlbmVyYXRlRGF0YS5jaG9pY2VQb3NpdGlvbihjaG9pY2VUYXJpZmYuZ2V0VmFsdWUoKSkpLmdldChHZW5lcmF0ZURhdGEuYXJyYXlTaXplKGNob2ljZVRhcmlmZi5nZXRWYWx1ZSgpKSAtIDEpKSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRG91YmxlIGZpcnN0RGlzY291bnQgPSBJbnRlZ2VyLnBhcnNlSW50KGxpc3RTdHJpbmcuZ2V0KGkpKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGJhc2VSYXRlID0gSW50ZWdlci5wYXJzZUludChsaXN0U3RyaW5nLmdldCgxKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Zm9yIChGaWxlIGZpbGUgOiBsb2FkZWRMaXN0KSB7CiAgICAgICAgICAgIAogICAgICAgICAgICBJbnRlZ2VyIGkgPSAwOwogICAgICAgICAgICAKICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gICA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgICAgICBnZW5lcmF0ZWREaXNjb3VudFBhY2suYWRkKCk7CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEFycmF5TGlzdCA8QXJyYXlMaXN0IDxTdHJpbmc+PiBnZW5lcmF0ZWREaXNjb3VudFBhY2sgPSBuZXcgQXJyYXlMaXN0PEZpbGU+KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZURhdGEoQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QsQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QgKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text>}
-        fileChooser.showOpenDialog(null);</text>
-      </register>
-      <register name="9" type="4">
-        <text>/*public void zmianaNapisu(){
-        loadedDiscountL.setText(&quot;Dupa&quot;);
-        slider.setMin(0.0);
-        slider.setMax(1.0);
-        slider.setShowTickMarks(true);
-        slider.setShowTickLabels(true);
-        slider.setMajorTickUnit(0.25f);
-        slider.setBlockIncrement(0.1f);
-    };*/</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRyeSB7</text>
+        <text>parseDouble</text>
       </register>
     </registers>
     <search>
