@@ -155,13 +155,7 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511103951828">
-        <mark key="'" line="106" column="64" />
-        <mark key="[" line="159" column="63" />
-        <mark key="]" line="159" column="63" />
-        <mark key="." line="159" column="63" />
-        <mark key="^" line="127" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511106801604" />
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="16" />
@@ -257,6 +251,7 @@
       <jump line="19" column="4" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" />
       <jump line="21" column="11" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Load.java" />
       <jump line="95" column="64" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" />
+      <jump line="136" column="17" filename="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -267,8 +262,7 @@
                                     .get(GenerateData.generatedFinalPack.get(GenerateData.choicePosition(choiceTariff.getValue())).size()-1).get(0))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Double.parseDouble(GenerateData.generatedFinalPack.get(GenerateData.choicePosition(choiceTariff.getValue()))
-                                    .get(GenerateData.generatedFinalPack.get(GenerateData.choicePosition(choiceTariff.getValue())).size()-1).get(0))</text>
+        <text>Max</text>
       </register>
       <register name="2" type="4">
         <text>slider.setMin(Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(GenerateData.arraySize(choiceTariff.getValue()) - 1)));
@@ -298,7 +292,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZURhdGEoQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QsQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QgKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
       <register name="-" type="4">
-        <text>parseDouble</text>
+        <text>Max</text>
       </register>
     </registers>
     <search>
