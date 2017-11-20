@@ -155,11 +155,11 @@
         <mark key="]" line="25" column="70" />
         <mark key="." line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511214062588">
-        <mark key="[" line="135" column="8" />
-        <mark key="]" line="135" column="8" />
-        <mark key="." line="135" column="8" />
-        <mark key="^" line="150" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/Wikia/src/sample/Controller.java" timestamp="1511217884187">
+        <mark key="[" line="141" column="16" />
+        <mark key="]" line="141" column="16" />
+        <mark key="." line="141" column="16" />
+        <mark key="^" line="155" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/Main.java" timestamp="1499522961434">
         <mark key="[" line="33" column="16" />
@@ -266,7 +266,7 @@
                                     .get(GenerateData.generatedFinalPack.get(GenerateData.choicePosition(choiceTariff.getValue())).size()-1).get(0))</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>System.out.println(&quot;Powyżej maximum&quot; + Double.parseDouble(list.get(0)));</text>
       </register>
       <register name="2" type="4">
         <text>slider.setMin(Double.parseDouble(GenerateData.generatedDiscountPack.get(GenerateData.choicePosition(choiceTariff.getValue())).get(GenerateData.arraySize(choiceTariff.getValue()) - 1)));
@@ -296,7 +296,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZW5lcmF0ZURhdGEoQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QsQXJyYXlMaXN0PEZpbGU+IGxvYWRlZExpc3QgKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>System.out.println(&quot;Powyżej maximum&quot; + Double.parseDouble(list.get(0)));</text>
       </register>
     </registers>
     <search>
